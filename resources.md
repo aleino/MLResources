@@ -14,3 +14,5 @@ link http://guidetodatamining.com/chapter2/
 http://shop.oreilly.com/product/9780596529321.do
 
 
+# Tranfer Learning
+https://github.com/ebenolson/pydata2015/blob/master/3%20-%20Convolutional%20Networks/Finetuning%20for%20Image%20Classification.ipynb
